@@ -1,0 +1,288 @@
+[
+  {
+    "id": "31f49519-bc55-4b70-b274-5794647792b6",
+    "title": "Summarize the main points and key takeaways f...",
+    "documentIds": [],
+    "messages": [
+      {
+        "id": "415fc14f-6cde-4fb1-9287-9dc229ca4cee",
+        "role": "user",
+        "content": "Summarize the main points and key takeaways from the uploaded PDF.",
+        "sources": [],
+        "rewrittenQuery": null,
+        "createdAt": "2026-11-26T18:09:04.463Z"
+      },
+      {
+        "id": "a3785974-a6b9-491b-ab48-47f7abb83291",
+        "role": "assistant",
+        "content": "Based on the most relevant passages retrieved from your documents:\n\n- **RS_cr_13.pdf (Page 1) [1]**: •\nImplemented Redis caching and cache invalidation strategies, reducing API response times by approximately 40% and eliminating\nstale-data issues\n•\nDeveloped an end-to-end bulk data pipeline that parses user-uploaded CSV files, ingests updated records into the database, and\ndynamically updates the vendor dashboard view\n- **RS_cr_13.pdf (Page 1) [2]**: VINAY\n (+91)9084246255 # sukhdevvinay9693@gmail.comï Linkedin§ GitHub  Portfolio\nEDUCATION\nIndian Institute of Information Technology, Tiruchirappalli (IIITT)Tiruchirappalli, Tamil Nadu\nB.Tech in Electronics and Communication Engineering CGPA: 8.23Aug 2022 - May 2026\nACHIEVEMENTS\nLeetCode: Knight Badge (1905+) in con\n- **RS_cr_13.pdf (Page 1) [3]**: •\nDesigned and implemented a GitHub Actions CI/CD pipeline with automated validation for required fields preventing\ninvalid data from reaching the production website and providing detailed validation feedback to administrators.\n\n> **Local Sandbox Mode**: Configure an OpenAI or Gemini API key in Settings for full generative LLM synthesis.",
+        "sources": [
+          {
+            "index": 1,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_1",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 1,
+            "score": 0.265,
+            "text": "Built the frontend for 10+ dashboards in Sponzo seller platform using React and TypeScript.\n•\nDeveloped CRUD modals and integrated 30+ internal REST API endpoints for data-driven support workflows.\n•\nImplemented Redis caching and cache invalidation strategies, reducing API response times by approximately 40% and eliminating\nstale-data issues\n•\nDeveloped an end-to-end bulk data pipeline that parses user-uploaded CSV files, ingests updated records into the database, and\ndynamically updates the vendor dashboard views.\n•\nAutomated inventory reconciliation logic to automatically update active product listings and purge zero-quantity products,\neliminating out-of-stock data discrepancies.\nSoftware Developer Engineer InternMarch 2025 – July 2025\nIIIT TRICHYTiruchirappalli, Tamil Nadu\n•\nDeveloped production dashboards for the college website, including content management (news, notices, events, achievements)"
+          },
+          {
+            "index": 2,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_0",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 0,
+            "score": 0.1706,
+            "text": "VINAY\n (+91)9084246255 # sukhdevvinay9693@gmail.comï Linkedin§ GitHub  Portfolio\nEDUCATION\nIndian Institute of Information Technology, Tiruchirappalli (IIITT)Tiruchirappalli, Tamil Nadu\nB.Tech in Electronics and Communication Engineering CGPA: 8.23Aug 2022 - May 2026\nACHIEVEMENTS\nLeetCode: Knight Badge (1905+) in contests, actively participating in problem-solving challenges\nCodeChef: Rating 1700+ (3*), consistently ranked among top performers\nCodeforces: Specialist 1430+ consistently ranked among top performers\nAtcoder: 6 kyu (800+) consistently ranked among top perfomer\nHackVega 2.0 2026 Finalist: Advanced to the finals, ranking among the top 0.3% of 47,000+ participants.\nEXPERIENCE\nFull Stack Developer InternMay 2026 – Oct 2026\nSPONZO\n•\nBuilt the frontend for 10+ dashboards in Sponzo seller platform using React and TypeScript.\n•\nDeveloped CRUD modals and integrated 30+ internal REST API endpoints for data-driven support workflows.\n•"
+          },
+          {
+            "index": 3,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_2",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 2,
+            "score": 0.1598,
+            "text": "ineer InternMarch 2025 – July 2025\nIIIT TRICHYTiruchirappalli, Tamil Nadu\n•\nDeveloped production dashboards for the college website, including content management (news, notices, events, achievements)\nand placement analytics, providing dynamic and real-time information to website visitors.\n•\nDesigned and implemented a GitHub Actions CI/CD pipeline with automated validation for required fields preventing\ninvalid data from reaching the production website and providing detailed validation feedback to administrators.\n•\nAutomated the deployment workflow by integrating testing dashboards with the production dashboards, where validated\nchanges were deployed only after approval, improving deployment reliability, data accuracy, and content management efficiency\nPROJECTS\nSecure Peer-to-Peer Digital Wallet| RESTful API’S, Express, MongoDB, ACID TransactionsLive Github\n•\nEnforced Transaction Integrity : Implemented Idempotency Keys to prevent double - spending anomalies during network"
+          },
+          {
+            "index": 4,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_3",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 3,
+            "score": 0.1505,
+            "text": "eer Digital Wallet| RESTful API’S, Express, MongoDB, ACID TransactionsLive Github\n•\nEnforced Transaction Integrity : Implemented Idempotency Keys to prevent double - spending anomalies during network\nfailures, ensuring exactly once execution for all financial operations.\n•\nSecured Fund Transfers : Architected a Two-Phase Transfer System that validates recipient identity and server-side balances\nprior to execution, preventing logic errors and unauthorized overdrafts.\n•\nOptimized User Experience : Engineered a Live Dashboard with efficient short-polling (3s interval) to instantly reflect balance\nupdates, prioritizing data accuracy with minimal overhead.\nCloud Drive System| Node.js, Express.js, MongoDB (Grid Fs), React.js, Streams API, DockerGithub\n•\nDesigned a hierarchical file system using the Parent-Reference pattern in MongoDB, enabling efficient nested folder structures and\nO(n) directory traversal while maintaining database schema simplicity\n•"
+          },
+          {
+            "index": 5,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_4",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 4,
+            "score": 0.1351,
+            "text": "igned a hierarchical file system using the Parent-Reference pattern in MongoDB, enabling efficient nested folder structures and\nO(n) directory traversal while maintaining database schema simplicity\n•\nImplemented a robust Data Lifecycle Manager featuring Soft Deletes and Trash Recovery, preventing accidental data loss by\nflagging records for archival rather than immediate permanent deletion.\n•\nDeveloped a real-time storage validation system that updates user storage usage and prevents uploads exceeding defined limits.\n•\nContainerized the React frontend and Node.js backend using Docker and Docker Compose, integrating MongoDB through its\nofficial image and persistent volumes for reliable data storage.\nCollaborative Real-Time Text Editor| Node.js, Socket.IO, React.js, MongoDB, WebSocketsLive Github\n•\nBuilt a multi-user real-time editing platform supporting simultaneous document updates.\n•"
+          }
+        ],
+        "rewrittenQuery": null,
+        "createdAt": "2026-11-26T18:09:04.478Z"
+      },
+      {
+        "id": "c78dd9e0-da1a-4981-8fa1-b192a719107f",
+        "role": "user",
+        "content": "what is in this pdf",
+        "sources": [],
+        "rewrittenQuery": null,
+        "createdAt": "2026-11-26T18:09:24.028Z"
+      },
+      {
+        "id": "488f326d-c013-4ff5-b51a-cfedf3a67eea",
+        "role": "assistant",
+        "content": "Based on the most relevant passages retrieved from your documents:\n\n- **RS_cr_13.pdf (Page 1) [1]**: Built the frontend for 10+ dashboards in Sponzo seller platform using React and TypeScript.\n- **RS_cr_13.pdf (Page 1) [2]**: eer Digital Wallet| RESTful API’S, Express, MongoDB, ACID TransactionsLive Github\n•\nEnforced Transaction Integrity : Implemented Idempotency Keys to prevent double - spending anomalies during network\nfailures, ensuring exactly once execution for all financial operations.\n- **RS_cr_13.pdf (Page 1) [3]**: ineer InternMarch 2025 – July 2025\nIIIT TRICHYTiruchirappalli, Tamil Nadu\n•\nDeveloped production dashboards for the college website, including content management (news, notices, events, achievements)\nand placement analytics, providing dynamic and real-time information to website visitors.\n\n_Conversational context retained across 1 prior turn(s)._\n\n> **Local Sandbox Mode**: Configure an OpenAI or Gemini API key in Settings for full generative LLM synthesis.",
+        "sources": [
+          {
+            "index": 1,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_1",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 1,
+            "score": 0.2384,
+            "text": "Built the frontend for 10+ dashboards in Sponzo seller platform using React and TypeScript.\n•\nDeveloped CRUD modals and integrated 30+ internal REST API endpoints for data-driven support workflows.\n•\nImplemented Redis caching and cache invalidation strategies, reducing API response times by approximately 40% and eliminating\nstale-data issues\n•\nDeveloped an end-to-end bulk data pipeline that parses user-uploaded CSV files, ingests updated records into the database, and\ndynamically updates the vendor dashboard views.\n•\nAutomated inventory reconciliation logic to automatically update active product listings and purge zero-quantity products,\neliminating out-of-stock data discrepancies.\nSoftware Developer Engineer InternMarch 2025 – July 2025\nIIIT TRICHYTiruchirappalli, Tamil Nadu\n•\nDeveloped production dashboards for the college website, including content management (news, notices, events, achievements)"
+          },
+          {
+            "index": 2,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_3",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 3,
+            "score": 0.1706,
+            "text": "eer Digital Wallet| RESTful API’S, Express, MongoDB, ACID TransactionsLive Github\n•\nEnforced Transaction Integrity : Implemented Idempotency Keys to prevent double - spending anomalies during network\nfailures, ensuring exactly once execution for all financial operations.\n•\nSecured Fund Transfers : Architected a Two-Phase Transfer System that validates recipient identity and server-side balances\nprior to execution, preventing logic errors and unauthorized overdrafts.\n•\nOptimized User Experience : Engineered a Live Dashboard with efficient short-polling (3s interval) to instantly reflect balance\nupdates, prioritizing data accuracy with minimal overhead.\nCloud Drive System| Node.js, Express.js, MongoDB (Grid Fs), React.js, Streams API, DockerGithub\n•\nDesigned a hierarchical file system using the Parent-Reference pattern in MongoDB, enabling efficient nested folder structures and\nO(n) directory traversal while maintaining database schema simplicity\n•"
+          },
+          {
+            "index": 3,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_2",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 2,
+            "score": 0.1699,
+            "text": "ineer InternMarch 2025 – July 2025\nIIIT TRICHYTiruchirappalli, Tamil Nadu\n•\nDeveloped production dashboards for the college website, including content management (news, notices, events, achievements)\nand placement analytics, providing dynamic and real-time information to website visitors.\n•\nDesigned and implemented a GitHub Actions CI/CD pipeline with automated validation for required fields preventing\ninvalid data from reaching the production website and providing detailed validation feedback to administrators.\n•\nAutomated the deployment workflow by integrating testing dashboards with the production dashboards, where validated\nchanges were deployed only after approval, improving deployment reliability, data accuracy, and content management efficiency\nPROJECTS\nSecure Peer-to-Peer Digital Wallet| RESTful API’S, Express, MongoDB, ACID TransactionsLive Github\n•\nEnforced Transaction Integrity : Implemented Idempotency Keys to prevent double - spending anomalies during network"
+          },
+          {
+            "index": 4,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_0",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 0,
+            "score": 0.1639,
+            "text": "VINAY\n (+91)9084246255 # sukhdevvinay9693@gmail.comï Linkedin§ GitHub  Portfolio\nEDUCATION\nIndian Institute of Information Technology, Tiruchirappalli (IIITT)Tiruchirappalli, Tamil Nadu\nB.Tech in Electronics and Communication Engineering CGPA: 8.23Aug 2022 - May 2026\nACHIEVEMENTS\nLeetCode: Knight Badge (1905+) in contests, actively participating in problem-solving challenges\nCodeChef: Rating 1700+ (3*), consistently ranked among top performers\nCodeforces: Specialist 1430+ consistently ranked among top performers\nAtcoder: 6 kyu (800+) consistently ranked among top perfomer\nHackVega 2.0 2026 Finalist: Advanced to the finals, ranking among the top 0.3% of 47,000+ participants.\nEXPERIENCE\nFull Stack Developer InternMay 2026 – Oct 2026\nSPONZO\n•\nBuilt the frontend for 10+ dashboards in Sponzo seller platform using React and TypeScript.\n•\nDeveloped CRUD modals and integrated 30+ internal REST API endpoints for data-driven support workflows.\n•"
+          },
+          {
+            "index": 5,
+            "id": "502439d1-b5f2-45f9-a428-a0419aa42d1b_chunk_4",
+            "documentId": "502439d1-b5f2-45f9-a428-a0419aa42d1b",
+            "filename": "RS_cr_13.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 4,
+            "score": 0.1347,
+            "text": "igned a hierarchical file system using the Parent-Reference pattern in MongoDB, enabling efficient nested folder structures and\nO(n) directory traversal while maintaining database schema simplicity\n•\nImplemented a robust Data Lifecycle Manager featuring Soft Deletes and Trash Recovery, preventing accidental data loss by\nflagging records for archival rather than immediate permanent deletion.\n•\nDeveloped a real-time storage validation system that updates user storage usage and prevents uploads exceeding defined limits.\n•\nContainerized the React frontend and Node.js backend using Docker and Docker Compose, integrating MongoDB through its\nofficial image and persistent volumes for reliable data storage.\nCollaborative Real-Time Text Editor| Node.js, Socket.IO, React.js, MongoDB, WebSocketsLive Github\n•\nBuilt a multi-user real-time editing platform supporting simultaneous document updates.\n•"
+          }
+        ],
+        "rewrittenQuery": "what is in this pdf (context: Summarize the main points and key takeaways from the uploaded PDF.)",
+        "createdAt": "2026-11-26T18:09:24.050Z"
+      }
+    ],
+    "createdAt": "2026-11-26T18:09:04.375Z",
+    "updatedAt": "2026-11-26T18:09:24.050Z"
+  },
+  {
+    "id": "320261a5-60c5-48b2-9954-a84e11978fa2",
+    "title": "What methodologies, architectures, or finding...",
+    "documentIds": [],
+    "messages": [
+      {
+        "id": "2c4eb865-849e-4c7c-b300-8652e6f1acc7",
+        "role": "user",
+        "content": "List any important numbers, dates, or limitations mentioned.",
+        "sources": [],
+        "rewrittenQuery": null,
+        "createdAt": "2026-11-26T18:10:07.147Z"
+      },
+      {
+        "id": "5ce1c223-2b83-4f08-8aa0-59d6c7ccc175",
+        "role": "assistant",
+        "content": "Based on the most relevant passages retrieved from your documents:\n\n- **Resume_9.pdf (Page 1) [1]**: VINAY KUMAR\n (+91)9084246255 # vs3664051@gmail.comï Linkedin§ GitHub  Portfolio\nEducation\nIndian Institute of Information Technology, Tiruchirappalli (IIITT) — Tiruchirappalli, Tamil Nadu\nB.Tech in Electronics and Communication Engineering — CGPA: 8.23 — Aug 2022 – May 2026\nAchievements\nLeetCode: Knight Badge (1850+)\n- **Resume_9.pdf (Page 1) [2]**: • Secured Fund Transfers : Architected a Two-Phase Transfer System that validates recipient identity\nand server-side balances prior to execution, preventing logic errors and unauthorized overdrafts.\n- **Resume_9.pdf (Page 1) [3]**: rt-polling (3s interval) to\ninstantly reflect balance updates, prioritizing data accuracy with minimal overhead.\n\n> **Local Sandbox Mode**: Configure an OpenAI or Gemini API key in Settings for full generative LLM synthesis.",
+        "sources": [
+          {
+            "index": 1,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_0",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 0,
+            "score": 0.1523,
+            "text": "VINAY KUMAR\n (+91)9084246255 # vs3664051@gmail.comï Linkedin§ GitHub  Portfolio\nEducation\nIndian Institute of Information Technology, Tiruchirappalli (IIITT) — Tiruchirappalli, Tamil Nadu\nB.Tech in Electronics and Communication Engineering — CGPA: 8.23 — Aug 2022 – May 2026\nAchievements\nLeetCode: Knight Badge (1850+) in contests, actively participating in problem-solving challenges\nCodeChef: Rating 1602+ (3*), consistently ranked among top performers\nCodeforces: Specialist 1405+ consistently ranked among top performers\nHackathon Finalist: Ranked Top 10 among 50+ teams at [Code Battle (IIIT TRICHY) ] (2025).\nExperience\nFull Stack Developer Intern – OneStop Pvt. LtdJun 2025 – Aug 2025\n• Worked on backend APIs and data handling for production features.\n• Implemented secure authentication using JWT (JSON Web Tokens) and Role-Based Access Control (RBAC)\nto ensure data privacy for multi-user sessions.\n• Improved application reliability through structured backend logic and validations."
+          },
+          {
+            "index": 2,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_1",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 1,
+            "score": 0.1212,
+            "text": "n using JWT (JSON Web Tokens) and Role-Based Access Control (RBAC)\nto ensure data privacy for multi-user sessions.\n• Improved application reliability through structured backend logic and validations.\nProjects\nSecure Peer-to-Peer Digital Wallet| Node.js, Express, MongoDB, ACID TransactionsLive Github\n• Enforced Transaction Integrity : Implemented Idempotency Keys to prevent double - spending anoma-\nlies during network failures, ensuring exactly - once execution for all financial operations.\n• Secured Fund Transfers : Architected a Two-Phase Transfer System that validates recipient identity\nand server-side balances prior to execution, preventing logic errors and unauthorized overdrafts.\n• Optimized User Experience : Engineered a Live Dashboard with efficient short-polling (3s interval) to\ninstantly reflect balance updates, prioritizing data accuracy with minimal overhead.\nParking Booking System| Node.js, Express.js, MongoDB, React.js, Streams API, JWTGithub"
+          },
+          {
+            "index": 3,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_2",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 2,
+            "score": 0.0945,
+            "text": "rt-polling (3s interval) to\ninstantly reflect balance updates, prioritizing data accuracy with minimal overhead.\nParking Booking System| Node.js, Express.js, MongoDB, React.js, Streams API, JWTGithub\n• Designed and built a real-time parking marketplace system with user and owner modules, enabling location-\nbased slot discovery, dynamic pricing, and seamless booking using geolocation APIs and interactive dash-\nboards.\n• Implemented WebSocket-based real-time synchronization to handle live booking requests, ensuring instant\nupdates of parking availability and reducing stale data issues across concurrent users.\n• Engineered an owner dashboard with analytics and booking controls, enabling hosts to manage parking\ncapacity, respond to requests in real time, and track revenue through daily, weekly, and monthly insights.\nCollaborative Real-Time Text Editor| Node.js, Socket.IO, React.js, MongoDB, WebSocketsGithub"
+          },
+          {
+            "index": 4,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_3",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 3,
+            "score": 0.0783,
+            "text": "capacity, respond to requests in real time, and track revenue through daily, weekly, and monthly insights.\nCollaborative Real-Time Text Editor| Node.js, Socket.IO, React.js, MongoDB, WebSocketsGithub\n• Built a multi-user real-time editing platform supporting simultaneous document updates.\n• Integrated Socket.IO to broadcast code changes to all connected clients in real-time with less than 100ms\nlatency.\n• Created a room-based architecture allowing users to create private coding sessions with unique room IDs.\nTechnical Skills\nLanguages : C++, Python, Java ,JavaScript, SQL, HTML/CSS\nFrontend : React.js, Tailwind CSS, Chart.js\nBackend : Node.js, Express.js, Socket.IO, REST APIs, JWT (JSON Web Tokens)\nDatabases : MongoDB, MySQL\nTools & Platforms: Git, GitHub, Postman, Render, Vercel.\nCore Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOPs), Operating Systems\n(OS), DBMS\nActivities\nMember – Google Developer Student Club (GDSC), IIITT"
+          },
+          {
+            "index": 5,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_4",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 4,
+            "score": 0.0202,
+            "text": "Postman, Render, Vercel.\nCore Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOPs), Operating Systems\n(OS), DBMS\nActivities\nMember – Google Developer Student Club (GDSC), IIITT\n• Organize hackathons and workshops mentored peers in DSA and web development."
+          }
+        ],
+        "rewrittenQuery": null,
+        "createdAt": "2026-11-26T18:10:07.157Z"
+      },
+      {
+        "id": "326d0a3d-8b06-4eef-9d41-08abcc136c4d",
+        "role": "user",
+        "content": "what is in this pdf",
+        "sources": [],
+        "rewrittenQuery": null,
+        "createdAt": "2026-11-26T18:10:15.341Z"
+      },
+      {
+        "id": "6522b1ff-0e48-4cd2-98c5-f38f6855a75c",
+        "role": "assistant",
+        "content": "Based on the most relevant passages retrieved from your documents:\n\n- **Resume_9.pdf (Page 1) [1]**: VINAY KUMAR\n (+91)9084246255 # vs3664051@gmail.comï Linkedin§ GitHub  Portfolio\nEducation\nIndian Institute of Information Technology, Tiruchirappalli (IIITT) — Tiruchirappalli, Tamil Nadu\nB.Tech in Electronics and Communication Engineering — CGPA: 8.23 — Aug 2022 – May 2026\nAchievements\nLeetCode: Knight Badge (1850+)\n- **Resume_9.pdf (Page 1) [2]**: n using JWT (JSON Web Tokens) and Role-Based Access Control (RBAC)\nto ensure data privacy for multi-user sessions.\n- **Resume_9.pdf (Page 1) [3]**: rt-polling (3s interval) to\ninstantly reflect balance updates, prioritizing data accuracy with minimal overhead.\n\n_Conversational context retained across 1 prior turn(s)._\n\n> **Local Sandbox Mode**: Configure an OpenAI or Gemini API key in Settings for full generative LLM synthesis.",
+        "sources": [
+          {
+            "index": 1,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_0",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 0,
+            "score": 0.1584,
+            "text": "VINAY KUMAR\n (+91)9084246255 # vs3664051@gmail.comï Linkedin§ GitHub  Portfolio\nEducation\nIndian Institute of Information Technology, Tiruchirappalli (IIITT) — Tiruchirappalli, Tamil Nadu\nB.Tech in Electronics and Communication Engineering — CGPA: 8.23 — Aug 2022 – May 2026\nAchievements\nLeetCode: Knight Badge (1850+) in contests, actively participating in problem-solving challenges\nCodeChef: Rating 1602+ (3*), consistently ranked among top performers\nCodeforces: Specialist 1405+ consistently ranked among top performers\nHackathon Finalist: Ranked Top 10 among 50+ teams at [Code Battle (IIIT TRICHY) ] (2025).\nExperience\nFull Stack Developer Intern – OneStop Pvt. LtdJun 2025 – Aug 2025\n• Worked on backend APIs and data handling for production features.\n• Implemented secure authentication using JWT (JSON Web Tokens) and Role-Based Access Control (RBAC)\nto ensure data privacy for multi-user sessions.\n• Improved application reliability through structured backend logic and validations."
+          },
+          {
+            "index": 2,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_1",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 1,
+            "score": 0.1366,
+            "text": "n using JWT (JSON Web Tokens) and Role-Based Access Control (RBAC)\nto ensure data privacy for multi-user sessions.\n• Improved application reliability through structured backend logic and validations.\nProjects\nSecure Peer-to-Peer Digital Wallet| Node.js, Express, MongoDB, ACID TransactionsLive Github\n• Enforced Transaction Integrity : Implemented Idempotency Keys to prevent double - spending anoma-\nlies during network failures, ensuring exactly - once execution for all financial operations.\n• Secured Fund Transfers : Architected a Two-Phase Transfer System that validates recipient identity\nand server-side balances prior to execution, preventing logic errors and unauthorized overdrafts.\n• Optimized User Experience : Engineered a Live Dashboard with efficient short-polling (3s interval) to\ninstantly reflect balance updates, prioritizing data accuracy with minimal overhead.\nParking Booking System| Node.js, Express.js, MongoDB, React.js, Streams API, JWTGithub"
+          },
+          {
+            "index": 3,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_2",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 2,
+            "score": 0.1067,
+            "text": "rt-polling (3s interval) to\ninstantly reflect balance updates, prioritizing data accuracy with minimal overhead.\nParking Booking System| Node.js, Express.js, MongoDB, React.js, Streams API, JWTGithub\n• Designed and built a real-time parking marketplace system with user and owner modules, enabling location-\nbased slot discovery, dynamic pricing, and seamless booking using geolocation APIs and interactive dash-\nboards.\n• Implemented WebSocket-based real-time synchronization to handle live booking requests, ensuring instant\nupdates of parking availability and reducing stale data issues across concurrent users.\n• Engineered an owner dashboard with analytics and booking controls, enabling hosts to manage parking\ncapacity, respond to requests in real time, and track revenue through daily, weekly, and monthly insights.\nCollaborative Real-Time Text Editor| Node.js, Socket.IO, React.js, MongoDB, WebSocketsGithub"
+          },
+          {
+            "index": 4,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_3",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 3,
+            "score": 0.0925,
+            "text": "capacity, respond to requests in real time, and track revenue through daily, weekly, and monthly insights.\nCollaborative Real-Time Text Editor| Node.js, Socket.IO, React.js, MongoDB, WebSocketsGithub\n• Built a multi-user real-time editing platform supporting simultaneous document updates.\n• Integrated Socket.IO to broadcast code changes to all connected clients in real-time with less than 100ms\nlatency.\n• Created a room-based architecture allowing users to create private coding sessions with unique room IDs.\nTechnical Skills\nLanguages : C++, Python, Java ,JavaScript, SQL, HTML/CSS\nFrontend : React.js, Tailwind CSS, Chart.js\nBackend : Node.js, Express.js, Socket.IO, REST APIs, JWT (JSON Web Tokens)\nDatabases : MongoDB, MySQL\nTools & Platforms: Git, GitHub, Postman, Render, Vercel.\nCore Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOPs), Operating Systems\n(OS), DBMS\nActivities\nMember – Google Developer Student Club (GDSC), IIITT"
+          },
+          {
+            "index": 5,
+            "id": "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_4",
+            "documentId": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+            "filename": "Resume_9.pdf",
+            "pageNumber": 1,
+            "chunkIndex": 4,
+            "score": 0.0183,
+            "text": "Postman, Render, Vercel.\nCore Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOPs), Operating Systems\n(OS), DBMS\nActivities\nMember – Google Developer Student Club (GDSC), IIITT\n• Organize hackathons and workshops mentored peers in DSA and web development."
+          }
+        ],
+        "rewrittenQuery": "what is in this pdf (context: List any important numbers, dates, or limitations mentioned.)",
+        "createdAt": "2026-11-26T18:10:15.363Z"
+      }
+    ],
+    "createdAt": "2026-11-26T18:09:48.042Z",
+    "updatedAt": "2026-11-26T18:10:15.363Z"
+  }
+]

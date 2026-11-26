@@ -1,0 +1,24 @@
+[
+  {
+    "id": "76ab94aa-c9f0-4562-b44f-bee699363b25",
+    "filename": "Resume_9.pdf",
+    "fileSize": 123475,
+    "storedFilePath": "C:\\Users\\8fara\\Documents\\Notepad\\server\\uploads\\1795716604743-Resume_9.pdf",
+    "pageCount": 1,
+    "chunkCount": 5,
+    "totalCharacters": 3326,
+    "embeddingDimensions": 384,
+    "vectorIds": [
+      "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_0",
+      "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_1",
+      "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_2",
+      "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_3",
+      "76ab94aa-c9f0-4562-b44f-bee699363b25_chunk_4"
+    ],
+    "vectorStoreProvider": "local",
+    "namespace": "default",
+    "embeddingProvider": "local",
+    "processingMs": 270,
+    "uploadedAt": "2026-11-26T18:10:05.021Z"
+  }
+]
